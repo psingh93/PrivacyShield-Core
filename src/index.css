@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .bg-obsidian {
+    background-color: #0D0F12;
+  }
+  .bg-carbon {
+    background-color: #16191E;
+  }
+  .border-bordercolor {
+    border-color: #262A33;
+  }
+  .text-accentGold {
+    color: #FFB800;
+  }
+  .bg-accentGold {
+    background-color: #FFB800;
+  }
+  .border-accentGold {
+    border-color: #FFB800;
+  }
+  .text-dangerRed {
+    color: #FF3B30;
+  }
+  .bg-dangerRed {
+    background-color: #FF3B30;
+  }
+  .border-dangerRed {
+    border-color: #FF3B30;
+  }
+  .text-safeGreen {
+    color: #00C853;
+  }
+  .bg-safeGreen {
+    background-color: #00C853;
+  }
+  .border-safeGreen {
+    border-color: #00C853;
+  }
+  .glass-panel {
+    background: rgba(22, 25, 30, 0.75);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 184, 0, 0.12);
+  }
+  .glow-gold {
+    box-shadow: 0 0 16px rgba(255, 184, 0, 0.2);
+  }
+  .glow-red {
+    box-shadow: 0 0 16px rgba(255, 59, 48, 0.22);
+  }
+  .glow-green {
+    box-shadow: 0 0 16px rgba(0, 200, 83, 0.22);
+  }
+}

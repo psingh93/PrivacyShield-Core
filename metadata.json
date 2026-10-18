@@ -1,0 +1,6 @@
+{
+  "name": "PrivacyShield Core - AI Data Loss Prevention & Privacy Engine",
+  "description": "Enterprise-grade, zero-trust AI Data Loss Prevention (DLP) engine that intercepts LLM inputs, masks sensitive PII/PHI/financial data, scores privacy risk, and maps compliance frameworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
